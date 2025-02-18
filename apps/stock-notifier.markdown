@@ -5,76 +5,102 @@ title: ""
 
 # IvixLabs Stock Notifier
 
-IvixLabs Stock Notifier helps Shopify store owners stay informed about low stock levels.
+Stay ahead of stock shortages with **IvixLabs Stock Notifier**, the ultimate tool for Shopify store owners to monitor inventory levels and receive instant alerts.
 
 [Install IvixLabs Stock Notifier](https://apps.shopify.com/stock-notifier-4){:target="_blank"}
 
+## Why Choose IvixLabs Stock Notifier?
+
+Avoid stockouts and lost sales with real-time alerts when your inventory is running low. Get notified via **email** or **Telegram**, customize notification settings, and track your stock status with ease—all within an intuitive Shopify admin interface.
+
 ## Key Features
 
-- Email notifications
-- Telegram notifications
-- Advanced filtering options for low stock selection
-- Multiple channels for low stock alerts
-- User-friendly Shopify admin interface
-- Last 10 notifications report
+- **Instant Low Stock Alerts** – Stay informed with real-time notifications.
+- **Multi-Channel Support** – Receive alerts via **Email** or **Telegram**.
+- **Advanced Filtering** – Customize alerts based on products, vendors, collections, and more.
+- **User-Friendly Dashboard** – Manage configurations effortlessly.
+- **Notification History** – View the last 10 notifications for quick insights.
 
-## Home Page
+## Home Page Overview
 
 ![IvixLabs Stock Notifier home page](/static/images/stock-notifier/home-page.png)
 
-On the home page, you can subscribe to a paid plan. Currently, we offer one plan that includes:
+Start by subscribing to our plan, which includes:
 
-- Up to 10 notification channels
-- 5 customizable configurations
-- 100 daily notifications
+- **Up to 10 notification channels**
+- **5 customizable configurations**
+- **100 daily notifications**
 
-## Channels
+## Notification Channels
 
-Channels define how notifications are delivered to you. Currently, the app supports two types:
+Notification channels define how alerts are sent. Currently, the app supports:
 
 - **Email**
 - **Telegram**
 
 ![IvixLabs Stock Notifier channels list](/static/images/stock-notifier/channels-list.png)
 
-Here, you can view all created channels and add new ones.
+### How to Create a Channel
 
-### Creating a Channel
-
-Click the **Create Channel** button to select a notification type. The available options are **Email** and **Telegram**. Each type has a different set of required fields.
+1. Click **Create Channel**.
+2. Select either **Email** or **Telegram**.
+3. Fill in the required details.
+4. Click **Save**.
 
 ![IvixLabs Stock Notifier email channel creation](/static/images/stock-notifier/email-channel-creation.png)
-
 ![IvixLabs Stock Notifier telegram channel creation](/static/images/stock-notifier/telegram-channel-creation.png)
 
 ### Verifying a Channel
 
-Once a channel is created, it must be verified to ensure ownership of the email or Telegram account.
-
-#### Verifying an Email Channel
-
-1. Click **Send Verification Code** to receive a code at the provided email address.
+#### Email Verification
+1. Click **Send Verification Code** to receive a code via email.
 2. Enter the code in the **Verification Code** field.
 3. Click **Verify Email**.
 
 ![IvixLabs Stock Notifier email channel verification](/static/images/stock-notifier/email-channel-verification.png)
 
-![IvixLabs Stock Notifier email channel verification success](/static/images/stock-notifier/email-channel-verification-success.png)
-
-#### Verifying a Telegram Channel
-
-1. Click the **Telegram Notifier Bot** link to open ShopifyStockNotifierBot.
-2. Click the **Start** button.
-3. Copy the confirmation code from the Telegram channel form (e.g., `/confirm 15_568c3ga23v`).
-4. Paste the confirmation code into the chat.
-5. You will receive a confirmation message: **"Channel is verified"**.
+#### Telegram Verification
+1. Click the **Telegram Notifier Bot** link to open the ShopifyStockNotifierBot.
+2. Click **Start**.
+3. Copy the provided confirmation code (e.g., `/confirm 15_568c3ga23v`).
+4. Paste the code into the Telegram chat.
+5. Receive a confirmation message: **"Channel is verified"**.
 
 ![IvixLabs Stock Notifier telegram channel verification](/static/images/stock-notifier/telegram-channel-verification.png)
 
-![IvixLabs Stock Notifier telegram bot answer](/static/images/stock-notifier/telegram-bot-answer.png)
+## Managing Notification Channels
 
-![IvixLabs Stock Notifier telegram channel verification success](/static/images/stock-notifier/telegram-channel-verification-success.png)
+You can create and manage up to **10 channels**. Once verified, channels can be assigned to notification configurations.
 
-## Managing Channels
+## Configurations
 
-You can create up to **10 channels**, with more options coming soon. Once one or more channels are verified, you can assign them to a configuration for stock notifications.
+A **configuration** determines when and where notifications are sent. Each configuration consists of:
+
+- **Stock Threshold** – Define the minimum stock level to trigger an alert.
+- **Notification Channels** – Choose where to receive notifications.
+- **Advanced Filters** – Customize notifications based on product attributes, location, vendor, and more.
+
+![IvixLabs Stock Notifier configurations list](/static/images/stock-notifier/configurations-list.png)
+
+### How to Create a Configuration
+
+1. Click **Create Configuration**.
+2. Fill in the required fields:
+    - **Name** – Enter a configuration name.
+    - **Stock Threshold** – Set the minimum stock level for notifications.
+    - **Notification Channels** – Select the channels to receive alerts.
+    - **Filters** – Customize based on product attributes, vendors, collections, etc.
+3. Click **Save** to activate the configuration.
+
+![IvixLabs Stock Notifier configuration creation](/static/images/stock-notifier/configuration-creation.png)
+
+## How It Works
+
+1. When a customer purchases a product or when stock levels change, the app detects the update.
+2. It checks for matching configurations based on predefined criteria.
+3. If a configuration matches, notifications are instantly sent to the selected channels.
+
+With **IvixLabs Stock Notifier**, you'll never miss a critical stock update again! Keep your inventory in check and ensure smooth operations for your Shopify store.
+
+[Install IvixLabs Stock Notifier Today!](https://apps.shopify.com/stock-notifier-4){:target="_blank"}
+
