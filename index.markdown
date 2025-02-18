@@ -1,4 +1,8 @@
 ---
 layout: home
 ---
-We build web services on microservices. 
+
+**Scalable. Secure. Future-Ready.**
+
+We craft high-performance web services powered by microservices architecture—ensuring flexibility, 
+efficiency, and seamless scalability for your business.
