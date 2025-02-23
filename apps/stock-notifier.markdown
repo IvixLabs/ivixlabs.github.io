@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ""
+permalink: /apps/stock-notifier
 ---
 
 # IvixLabs Stock Notifier
