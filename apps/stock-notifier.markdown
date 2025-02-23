@@ -1,6 +1,6 @@
 ---
 layout: page
-title: false
+title: "" 
 permalink: /apps/stock-notifier
 ---
 
