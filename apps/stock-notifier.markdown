@@ -8,7 +8,8 @@ permalink: /apps/stock-notifier
 
 Stay ahead of stock shortages with **IvixLabs Stock Notifier**, the ultimate tool for Shopify store owners to monitor inventory levels and receive instant alerts.
 
-[Install IvixLabs Stock Notifier](https://apps.shopify.com/stock-notifier-4){:target="_blank"}
+[![Install IvixLabs Stock Notifier](/static/images/shopify/badge-shopify-app-store-light.png){:width="200"}](https://apps.shopify.com/stock-notifier-4){:target="_blank"}
+
 
 ## Why Choose IvixLabs Stock Notifier?
 
@@ -103,5 +104,5 @@ A **configuration** determines when and where notifications are sent. Each confi
 
 With **IvixLabs Stock Notifier**, you'll never miss a critical stock update again! Keep your inventory in check and ensure smooth operations for your Shopify store.
 
-[Install IvixLabs Stock Notifier Today!](https://apps.shopify.com/stock-notifier-4){:target="_blank"}
+[![Install IvixLabs Stock Notifier](/static/images/shopify/badge-shopify-app-store-light.png){:width="200"}](https://apps.shopify.com/stock-notifier-4){:target="_blank"}
 
